@@ -1,4 +1,19 @@
-# vinext-starter
+# 補助金実務家 阿久津和宏
+
+公開ドメイン: **https://hj.fp-1.info/**
+
+このリポジトリが `hj.fp-1.info` の正本です。配信先は Xserver とし、WordPress・CMS・追加プラグインは使用しません。
+
+## 公開対応
+
+- ドメイン: `hj.fp-1.info`
+- 配信先: Xserver（`fp-1.info` のサブドメイン公開フォルダ）
+- 管理元: GitHub `WellConsultant/hojokin-practice-site`
+- WordPress: 使用しない
+
+---
+
+## 開発情報
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
