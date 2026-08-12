@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://akutsu-hojokin-practice.kzhr192.chatgpt.site/sitemap.xml
+Sitemap: https://hj.fp-1.info/sitemap.xml
