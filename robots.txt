@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akutsu-hojokin-practice.kzhr192.chatgpt.site/sitemap.xml
