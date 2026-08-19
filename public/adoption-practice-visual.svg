@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" role="img" aria-label="採択審査から入金までの実務工程">
+  <rect width="1000" height="150" rx="12" fill="#e9eef2"/>
+  <path d="M135 75H865" stroke="#b38d47" stroke-width="4" stroke-dasharray="8 8"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <g fill="#0d2b45" stroke="#b38d47" stroke-width="3"><circle cx="135" cy="75" r="38"/><circle cx="378" cy="75" r="38"/><circle cx="622" cy="75" r="38"/><circle cx="865" cy="75" r="38"/></g>
+    <g fill="#fff" font-size="18" font-weight="700"><text x="135" y="81">採択</text><text x="378" y="81">交付</text><text x="622" y="81">実施</text><text x="865" y="81">入金</text></g>
+    <g fill="#0d2b45" font-size="14"><text x="135" y="132">事業計画</text><text x="378" y="132">見積・発注</text><text x="622" y="132">支払・証拠</text><text x="865" y="132">確定・請求</text></g>
+  </g>
+</svg>

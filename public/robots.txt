@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hj.fp-1.info/sitemap.xml
